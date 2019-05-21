@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211505283045",
+    "firebase_url": "https://autochelaprueba.firebaseio.com",
+    "project_id": "autochelaprueba",
+    "storage_bucket": "autochelaprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211505283045:android:3c4086faa901f777",
+        "android_client_info": {
+          "package_name": "com.example.autochelaprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211505283045-vl5ooi1c4a0s88hkq0bjcv3t6mrffg92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autochelaprueba",
+            "certificate_hash": "cf531e394e002a008a4830433ff080d314859499"
+          }
+        },
+        {
+          "client_id": "211505283045-in4dka5m3m0ja3hoc0orpgjc3bfiom1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpLwA11zgipk2s5RTu8SvinKdPb8JI_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211505283045-in4dka5m3m0ja3hoc0orpgjc3bfiom1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
